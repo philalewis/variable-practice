@@ -1,3 +1,5 @@
 var carModel = "Accord";
 var carMake = 'Honda';
-var carYear = "2006";
+
+var numberCyl = 6;
+var carYear = 2006;
